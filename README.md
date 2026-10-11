@@ -11,10 +11,10 @@ This repository contains my graphic design internship task submissions for Synen
 
 ## Tasks
 1. **Task 1 — Social Media Post Design**
-2. **Task 2 — Instagram Carousel**
-3. **Task 3 — Promotional Poster**
-4. **Task 4 — Business Card Design**
-5. **Task 5 — YouTube Thumbnail**
+2. **Task 2 — Poster Design**
+3. **Task 3 — Logo Design**
+4. **Task 4 — Bussiness Card Design**
+5. **Task 5 —Brand Identity Kit**
 6. **Task 6 — Social Media Campaign**
 
 ## Tools Used
