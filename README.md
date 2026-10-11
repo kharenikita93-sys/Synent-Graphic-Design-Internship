@@ -29,12 +29,12 @@ This repository contains my graphic design internship task submissions for Synen
 ## Canva Project Links
 Add the actual Canva project links below:
 
-- Task 1: https://www.canva.com/design/DAHW7z49Nt8/qNznIjVmRB5R5jFYpUIpbQ/edit
-- Task 2: https://www.canva.com/design/DAHW8HQODM4/5aiWS1gzJ1R-cY3IZ2w7Lg/edit
-- Task 3: https://www.canva.com/design/DAHXQQkDdGg/uKMzdKCKGo7LU-sI9B_dhw/edit
-- Task 4: https://www.canva.com/design/DAHW7yGpwcg/hJh8iPcQYXSvYCXsYmhmqw/edit
-- Task 5: https://www.canva.com/design/DAHXO-BdzS4/XHryukajfaqid3FaRL4sTQ/edit
-- Task 6: https://www.canva.com/design/DAHXQMHNp0Y/xN2zWyHMpgliUEIzzGCmpg/edit
+- Task 1- Social Media Post Design : https://www.canva.com/design/DAHW7z49Nt8/qNznIjVmRB5R5jFYpUIpbQ/edit
+- Task 2- Poster Design : https://www.canva.com/design/DAHW8HQODM4/5aiWS1gzJ1R-cY3IZ2w7Lg/edit
+- Task 3- Logo Design: https://www.canva.com/design/DAHXQQkDdGg/uKMzdKCKGo7LU-sI9B_dhw/edit
+- Task 4- Bussiness Card Kit: https://www.canva.com/design/DAHW7yGpwcg/hJh8iPcQYXSvYCXsYmhmqw/edit
+- Task 5-Brand Identity Kit: https://www.canva.com/design/DAHXO-BdzS4/XHryukajfaqid3FaRL4sTQ/edit
+- Task 6-Social Media Campaign: https://www.canva.com/design/DAHXQMHNp0Y/xN2zWyHMpgliUEIzzGCmpg/edit
 
 ## Submission Notes
 - Final designs and screenshots are organized by task.
